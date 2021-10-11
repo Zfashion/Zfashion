@@ -14,4 +14,6 @@
 ---
 ### 🛠 Technologies & Tools:
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
