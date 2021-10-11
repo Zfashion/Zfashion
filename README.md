@@ -32,9 +32,7 @@
 ...
 
 ### 🚦 Stats
-<a href="https://github.com/natee/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zfashion&layout=compact" />
-</a>
+
 ---
 [![Zfashion's github stats](https://github-readme-stats.vercel.app/api?username=Zfashion&show_icons=true)](https://github.com/Zfashion/github-readme-stats)
 
