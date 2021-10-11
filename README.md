@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
