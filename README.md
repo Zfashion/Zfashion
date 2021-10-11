@@ -14,11 +14,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 ---
 ---
 ---
