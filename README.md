@@ -32,12 +32,11 @@
 ...
 
 ### 🚦 Stats
-
-[![Zfashion's github stats](https://github-readme-stats.vercel.app/api?username=Zfashion&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Zfashion/github-readme-stats)
----
 <a href="https://github.com/natee/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zfashion&layout=compact" />
 </a>
+---
+[![Zfashion's github stats](https://github-readme-stats.vercel.app/api?username=Zfashion&show_icons=true)](https://github.com/Zfashion/github-readme-stats)
 
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
