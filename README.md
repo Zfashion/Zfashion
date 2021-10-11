@@ -37,4 +37,4 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfashion&layout=compact)](https://github.com/natee/website)
 
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+<!-- ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif) -->
