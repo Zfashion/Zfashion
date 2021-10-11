@@ -14,6 +14,8 @@
 ---
 ### 🛠 Technologies & Tools:
 
+![Android](https://img.shields.io/badge/-Android-brightgreen?style=&logo=Android&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blue?style=&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-kotlin-orange?style=&logo=kotlin)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
