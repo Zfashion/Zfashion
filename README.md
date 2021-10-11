@@ -17,6 +17,6 @@
 ![Kotlin](https://img.shields.io/badge/-kotlin-orange?style=&logo=kotlin)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=&logo=github)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
