@@ -15,5 +15,6 @@
 ### 🛠 Technologies & Tools:
 
 ![Kotlin](https://img.shields.io/badge/-kotlin-orange?style=&logo=kotlin)
+![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git)
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
