@@ -17,7 +17,7 @@
 ![Android](https://img.shields.io/badge/-Android-brightgreen?style=&logo=Android&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-blue?style=&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=&logo=kotlin)
-![Groovy](https://img.shields.io/badge/-Groovy-9cf?style=&logo=groovy)
+![Groovy](https://img.shields.io/badge/-Groovy-9cf?style=&logo=groovy&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=&logo=github&logoColor=white)
