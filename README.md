@@ -21,6 +21,7 @@
 ![C](https://img.shields.io/badge/-C-yellow?style=&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-red?style=&logo=c++&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellowgreen?style=&logo=JavaScript&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-brightgreen?style=&logo=AndroidStudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=&logo=github&logoColor=white)
