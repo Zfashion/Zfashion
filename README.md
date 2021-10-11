@@ -24,7 +24,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-brightgreen?style=&logo=AndroidStudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=&logo=sublime-text&logoColor=FF9800)
-![MarkDown](https://img.shields.io/badge/-MarkDown-007ACC?style=&logo=MarkDown&logoColor=white)
+![MarkDown](https://img.shields.io/badge/-MarkDown-white?style=&logo=MarkDown&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=&logo=github&logoColor=white)
