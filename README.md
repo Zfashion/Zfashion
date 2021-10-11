@@ -33,7 +33,7 @@
 
 ### 🚦 Stats:
 
-[![Zfashion's github stats](https://github-readme-stats.vercel.app/api?username=Zfashion&show_icons=true&hide=commits)](https://github.com/Zfashion/github-readme-stats)
+[![Zfashion's github stats](https://github-readme-stats.vercel.app/api?username=Zfashion&theme=gruvbox&show_icons=true&hide=commits)](https://github.com/Zfashion/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfashion&layout=compact)](https://github.com/natee/website)
 
