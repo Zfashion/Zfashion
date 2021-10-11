@@ -36,6 +36,7 @@
 <a href="https://github.com/natee/website">
   <img src="https://github-readme-stats.vercel.app/api?username=Zfashion&show_icons=true&hide=commits" />
 </a>
+---
 <a href="https://github.com/natee/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zfashion&layout=compact" />
 </a>
