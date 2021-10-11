@@ -12,5 +12,6 @@
 - ⚡ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 ---
 ---
----
+### 🛠 Technologies & Tools:
+
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
