@@ -1,4 +1,4 @@
-## <center>Hey there! I'm Zfashion 🖖</center>
+<h1 align="center">Hey there! I'm Zfashion 🖖</h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
